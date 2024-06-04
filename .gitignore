@@ -71,12 +71,16 @@ instance/
 # Sphinx documentation
 docs/_build/
 
+#files
+*.png
+
 # PyBuilder
 .pybuilder/
 target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.ipynb
 
 # IPython
 profile_default/
